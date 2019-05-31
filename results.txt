@@ -1,0 +1,27 @@
+
+  (Word, Frequency):
+  (KTCJJ, 1) (FHZJW, 1) (W6JJB, 1) (TTBTJ, 1) (R9WWJ, 1) (WTCJ3, 1) (SHH3K, 1) (KFJT3, 1) (JBJ3J, 1) (H5965, 1) 
+  (CTWTB, 1) (JTBW5, 1) (KFTTT, 1) (JTB33, 1) (JTBWB, 1) (5T5B3, 1) (CWJSK, 1) (KRTJT, 1) (TTJJT, 1) (9HW63, 1) 
+  (KJ5BT, 1) (FBKSK, 1) (KXJ3T, 1) (3BTJT, 1) (FJX5C, 1) (WT5TB, 1) (XC5ZC, 1) (CX3T3, 1) (BBT3B, 1) (B35WB, 1) 
+  (WTCBB, 1) (H5WHC, 1) (5T3T3, 1) (TBT3T, 1) (HR6TJ, 1) 
+  35 Words in total
+
+  Chars : Frequency
+    3   :    17
+    5   :    12
+    6   :    4
+    9   :    3
+    B   :    21
+    C   :    10
+    F   :    5
+    H   :    8
+    J   :    24
+    K   :    10
+    R   :    3
+    S   :    3
+    T   :    35
+    W   :    14
+    X   :    4
+    Z   :    2
+
+  175 Chars in total
